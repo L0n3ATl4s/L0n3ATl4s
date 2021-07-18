@@ -6,3 +6,9 @@
 
 ### Github stats
 ![Language Stats](https://github-readme-stats.vercel.app/api?username=L0n3ATl4s&show_icons=true&theme=gotham)
+
+### Top Languages
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L0n3ATl4s&layout=compact)
+ 
+### Github Streaks
+![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=kritika-pattalam&theme=dark" width="48%)
