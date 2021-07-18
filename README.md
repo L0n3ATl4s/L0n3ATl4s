@@ -5,4 +5,4 @@
 - 📫 How to reach me [Mail](mailto:zv5xl5knz@relay.firefox.com)
 
 ### Github stats
-[![Language Stats](https://github-readme-stats.vercel.app/api?username=L0n3ATl4s&show_icons=true&theme=gotham)]
+![Language Stats](https://github-readme-stats.vercel.app/api?username=L0n3ATl4s&show_icons=true&theme=gotham)
